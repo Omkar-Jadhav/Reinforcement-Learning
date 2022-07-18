@@ -1,2 +1,2 @@
 # Reinforcement-Learning
-This repository contains the training models for different reinforcement learning algorith,s
+This repository contains the training models for different reinforcement learning algorithms
